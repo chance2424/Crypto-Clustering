@@ -8,7 +8,7 @@ creating two financial analysis tools by using a single Jupyter notebook:
 
 Technologies This program was created using Python and juypter notebook
 
-Installation Guide git clone https://github.com/chance2424/CryptoandStockPortfolio
+Installation Guide git clone: https://github.com/chance2424/Crypto-Clustering.git
 
 Contributors Starter code was provided by UC Berkeley and modifications were done by Chance Dion Griffin
 

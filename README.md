@@ -6,6 +6,8 @@ creating two financial analysis tools by using a single Jupyter notebook:
 
 2. Generate the summary statistics, and use HvPlot to visualize your data to observe what your DataFrame contains.
 
+3. Do this for the rest of the data
+
 Technologies This program was created using Python and juypter notebook
 
 Installation Guide git clone: https://github.com/chance2424/Crypto-Clustering.git
